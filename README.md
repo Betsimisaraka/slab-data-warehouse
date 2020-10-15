@@ -1,19 +1,26 @@
-# M2W: Slab's Data-warehouse
+# mockups-to-websites
 
-- **Website:** [Slab Design](https://slabdsgn.com)
-- **Mockup source:** [Figma](https://www.figma.com/file/kFKxGPwRKQ35u49Td3TqtC/SLAB-SHOT-Datawarehouse-Freebie-(Copy)?node-id=510%3A64)
-- **From:** [FigmaResources](https://www.figmaresources.com/resources/figma-landing-page-template)
+Given a set of open-source designs and supporting materials, let's see if we can build webpages from them.
 
-## Screenshot
+Our students at Onja are currently learning Front-end Development, so these exercises are like a gold-mine, simulating real-world web development.
 
-![Screenshot of the Data-warehouse Landing Page](docs/data-warehouse-landing-page.png)
+## For Developers
 
-## Description
+We have a number of open-source mockups listed below.
 
-This landing page design is for a fictitious data storage company. The illustrations mimic the aesthetic for the entire site: rounded vectors, playful colours and easy-on-the-eye.
+Build the necessary HTML, CSS, and accompanying assets to turn these mockups into living, breathing webpages.
 
-## Target
+1. Fork this repo
+1. Decide on a mockup to work on. Look in that directory for instructions and source material.
+1. Place all web-content in the `webroot` folder for the mockup you're working on.
 
-This mockup could easily be the homepage. See if you can build it within the `webroot` folder :)
+## For Designers
 
-Good luck!
+Got a mockup you'd like to include in this list of real-world exercises? Please [get in touch](mailto:shaun@onja.org).
+
+## List of mockups
+
+1. [TruSat.org](trusat/readme.md)
+1. [Slab's Data Warehouse](slab-data-warehouse/readme.md)
+1. [Chili Lab's Food Delivery App](chili-labs-food-delivery/readme.md)
+
